@@ -1,0 +1,14 @@
+langchain>=1.0.0
+langgraph>=0.5.0
+langchain-openai>=0.3.0
+langchain-community>=0.3.0
+langchain-text-splitters>=0.3.0
+faiss-cpu>=1.8.0
+rank_bm25>=0.2.2
+sentence-transformers>=3.0.0
+ddgs>=7.0.0
+trafilatura>=2.0.0
+lxml_html_clean>=0.4.0
+pypdf>=5.0.0
+pydantic>=2.12.0
+pydantic-settings>=2.12.0
